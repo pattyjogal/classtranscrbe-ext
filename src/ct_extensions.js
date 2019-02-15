@@ -1,4 +1,3 @@
-document.body.style.border = "5px solid red";
 // On page load, change the video to be the last
 // watched one.
 $(document).ready(() => {
