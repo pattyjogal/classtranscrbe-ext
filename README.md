@@ -19,9 +19,10 @@ problem. Chrome instructions coming soon!
 # Features
  - When you play a video, the site will remember it and when you load the site again, that video
  will be auto selected. This helps you keep your last spot, and saves you a bit of time.
+ - Autoplays the next video on the list!
 
-# Coming Soon
+# Coming Soon/Wishlist
  - Chrome Extension (should be an easy port)
- - Autoplay
+ - Settings Menu (to toggle the various features)
 
 Please let me know in a Github Issue if you have any suggestions!
