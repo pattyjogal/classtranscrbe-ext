@@ -30,3 +30,6 @@ Array.from(videos).forEach(video => {
         });
     })
 })
+
+// Enable autoplay as well
+$('video').on('ended', function () {$('.vjs-up-next').click()})
